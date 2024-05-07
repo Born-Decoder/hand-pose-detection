@@ -10,9 +10,9 @@ This Python script utilizes the MediaPipe library to perform hand tracking in re
 
 ## Usage
 
-1. Clone the repository or download the `hand_tracking.py` file.
+1. Clone the repository or download the `main.py` file.
 2. Install the required libraries using `pip`.
-3. Run the script with `python hand_tracking.py`.
+3. Run the script with `python main.py`.
 4. Position your hand in front of the camera to see the landmarks detected.
 
 ## Configuration
